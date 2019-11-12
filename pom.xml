@@ -4,7 +4,7 @@
   <groupId>JavaGroup_Nexus</groupId>
   <artifactId>JavaWeb_Nexus</artifactId>
   <packaging>war</packaging>
-  <version>1.9.8</version>
+  <version>1.9.8-SNAPSHOT</version>
   <name>JavaWeb Nexus</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -42,7 +42,7 @@
             </plugin>
         </plugins>
   </build>
-  
+<!--  
 <distributionManagement>
 <repository>
 <id>nexus</id>
@@ -55,7 +55,7 @@
 <url>http://localhost:8081/repository/maven-snapshots/</url>
 </snapshotRepository>
 </distributionManagement>  
-  
+-->  
   
   
 </project>
