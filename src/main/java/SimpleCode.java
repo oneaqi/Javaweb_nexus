@@ -14,6 +14,6 @@ public class SimpleCode extends HttpServlet {
    protected void doGet(HttpServletRequest req, HttpServletResponse resp) 
          throws ServletException, IOException {
       resp.setContentType("text/plain");
-      resp.getWriter().write("Welcome! This is created by the java file. Change 1");
+      resp.getWriter().write("Welcome! This is created by the java file.");
    }
 }
