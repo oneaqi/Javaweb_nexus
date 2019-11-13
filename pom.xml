@@ -4,7 +4,7 @@
   <groupId>JavaGroup_Nexus</groupId>
   <artifactId>JavaWeb_Nexus</artifactId>
   <packaging>war</packaging>
-  <version>1.9.8</version>
+  <version>1.0-SNAPSHOT</version>
   <name>JavaWeb Nexus</name>
   <url>http://maven.apache.org</url>
   <dependencies>
